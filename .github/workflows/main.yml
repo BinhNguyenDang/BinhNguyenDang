@@ -27,8 +27,8 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.readme }}
-          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v3
