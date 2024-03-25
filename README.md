@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 Software Engineer journey
+- 🐯 CS and ECON majors at Depauw University
+- 🌍 I'm based in Greencastle City, IN, USA
+- ✉️ You can contact me at binhnguyendang2003@gmail.com or binhnguyendang_2025@depauw.edu
+- 🤝 I'm open to collaborating on interesting projects
+
+[![Binh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinhNguyenDang&show_icons=true&theme=radical)](https://github.com/BinhNguyenDang/github-readme-stats)
+
+
 <!--
 **BinhNguyenDang/BinhNguyenDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
