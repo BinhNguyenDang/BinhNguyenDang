@@ -27,7 +27,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.readme }}
+          github_token: ${{ secrets.README_PAT }}
           branch: main
           force: true
 
