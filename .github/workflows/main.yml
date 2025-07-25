@@ -4,7 +4,7 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+      # daily
     - cron: "0 0 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
@@ -14,8 +14,8 @@ on:
   push:
     branches:
     - main
-    branches-ignore:
-    - output
+    paths-ignore:
+      - 'dist/**'
 
 # The sequence of runs in this workflow:
 jobs:
