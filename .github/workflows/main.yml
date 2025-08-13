@@ -14,9 +14,7 @@ on:
   push:
     branches:
     - main
-    paths-ignore:
-      - 'dist/**'
-
+  
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
