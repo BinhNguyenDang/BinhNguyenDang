@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer journey<br>🐯 CS and ECON majors at Depauw University<br>🌍 I'm based in Greencastle City, IN, USA<br>✉️ You can contact me at binhnguyendang2003@gmail.com or binhnguyendang_2025@depauw.edu<br>🤝 I'm open to collaborating on interesting projects
+🔭 Software Engineer journey<br>🐯 DePauw University graduate with double majors in Computer Science and Economics<br>🌍 I'm based in Indianapolis city, IN, USA<br>✉️ You can contact me at binhnguyendang2003@gmail.com <br>🤝 I'm open to collaborating on interesting projects
 
 
 ## 🌐 Socials:
